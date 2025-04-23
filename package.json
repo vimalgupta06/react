@@ -1,0 +1,22 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "this is react file by Vimal Gupta",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://https://github.com/vimalgupta06/react.git)"
+  },
+  "keywords": [
+    "react",
+    "learning",
+    "vimal",
+    "namste",
+    "react"
+  ],
+  "author": "Vimal Gupta",
+  "license": "ISC"
+}
